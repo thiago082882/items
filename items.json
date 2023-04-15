@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Camiseta",
+    "description": "Camiseta de algodão",
+    "price": 29.90
+  },
+  {
+    "id": 2,
+    "name": "Calça jeans",
+    "description": "Calça jeans slim",
+    "price": 99.90
+  },
+  {
+    "id": 3,
+    "name": "Tênis",
+    "description": "Tênis esportivo",
+    "price": 149.90
+  }
+]
